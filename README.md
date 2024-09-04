@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 👩🏻‍💻 I’m currently learning **MERN Stack**
 
-- 📫 How to reach me **parora0711@gmail.com**
+- 📫 How to reach me **pirri0899@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
